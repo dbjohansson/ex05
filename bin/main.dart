@@ -4,5 +4,10 @@
 import 'package:example05/example05.dart' as example05;
 
 main() {
-  print('Hello world: ${example05.calculate()}!');
+  String question = "How are you?";
+  num x = 20;
+  num pi = 3.144; 
+  print('$question $x $pi');
+  
 }
+
