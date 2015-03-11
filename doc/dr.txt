@@ -2,6 +2,8 @@ ex05
 
 18/20
 
+delete the test folder
+
 README:
 course name?
 last name, first name?
