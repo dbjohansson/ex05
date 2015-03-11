@@ -1,3 +1,5 @@
 # example05
 
-A minimal command-line application.
+SIO-2109 Introduction à la programmation
+
+Denice Buzsaky Johansson
