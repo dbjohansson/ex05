@@ -1,0 +1,38 @@
+ex05
+
+18/20
+
+README:
+course name?
+last name, first name?
+
+see https://www.dartlang.org/articles/style-guide/
+
+lib/example05.dart:
+(-1) library should not be empty
+
+bin/main.dart:
+void main() {
+
+var a = 'I am hungry. So I ate.';
+var b = 'I am hungry So I ate';
+-->
+void main() {
+  var a = 'I am hungry. So I ate.';
+  var b = 'I am hungry So I ate';
+
+(-1)  print(longestWord); --> print(longestWord(b));
+
+bin/ex05_functions.dart:
+use return type
+onlyLetters(String input) --> bool onlyLetters(String input)
+...
+asteriskTree(int height) --> String asteriskTree(int height)
+
+
+
+
+
+
+
+
